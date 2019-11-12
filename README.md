@@ -1,3 +1,3 @@
 # basic-crud
 
-Sys to learn and practice about CRUDs.
+Sys to learn and practice about CRUD.
